@@ -6,8 +6,9 @@ public class SortSquares {
             System.out.println(arr[i]+ " ");
         }
     }
-    static void swap(int[] arr){
-        int i=
+    static void swap(int[] arr,int i){
+        int i= temp;
+
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
