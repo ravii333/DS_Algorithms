@@ -1,6 +1,6 @@
 package Arrays;
+
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class CloneArray {
 
@@ -25,7 +25,8 @@ public class CloneArray {
         printArray(arr);
         System.out.println("Cloned Array");
         int[] arr_2= arr.clone();
-        printArray(arr_2);  
+        printArray(arr_2); 
+        sc.close(); 
     }
     
 }

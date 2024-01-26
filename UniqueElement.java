@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.Scanner;
 //here in the array all elements are being repeated only one is unique
 public class UniqueElement {
@@ -30,5 +29,6 @@ public class UniqueElement {
             arr[i]=sc.nextInt();
         }
         System.out.println("Unique Element is "+findUniqueElement(arr));
+        sc.close();
     }
 }

@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 import java.util.Arrays;
 
@@ -26,5 +26,6 @@ public class KthSmallAndLarge {
         int[] ans = kthSmallestAndLargestElement(arr, small, large);
         System.out.println(+small+" smallest element: " + ans[0]);
         System.out.println(+large+" largest element: " + ans[1]);
+        sc.close();
     }
 }

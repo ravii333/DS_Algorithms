@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 
 public class twoSum {
@@ -26,6 +26,7 @@ public class twoSum {
         System.out.println("Enter your target:");
         int target =sc.nextInt();
         targetSum(arr,target);
+        sc.close();
     }
     
 }

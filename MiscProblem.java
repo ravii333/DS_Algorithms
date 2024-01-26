@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.Scanner;
 
 public class MiscProblem {
@@ -19,5 +18,6 @@ public class MiscProblem {
         int a = sc.nextInt();
         int b = sc.nextInt();
         swap(a,b);
+        sc.close();
     }
 }

@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 
 public class CountElement {
@@ -26,5 +26,6 @@ public class CountElement {
         int x= sc.nextInt();
         int count = countOfElement(arr,x);
         System.out.println("The Elements in Array that is greater than " +x+ " is: "+count);
+        sc.close();
     }
 }

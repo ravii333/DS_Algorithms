@@ -1,4 +1,4 @@
-package Arrays;
+
  import java.util.Scanner;
 public class LastOccurenceInArray {
 
@@ -25,6 +25,7 @@ public class LastOccurenceInArray {
         int elem = sc.nextInt();
         int lastIndex = lastOccurence(arr,elem);
         System.out.println("The last index of occurence of the " +elem+ " is: "+lastIndex);
+        sc.close();
     }
     
 }

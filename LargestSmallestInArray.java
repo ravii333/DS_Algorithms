@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 import java.util.Arrays;
 
@@ -17,8 +17,9 @@ public class LargestSmallestInArray {
          for(int i=0;i<n;i++){
             arr[i] = sc.nextInt();
          }
-         int[] ans = smallestLargestInArray(arr);
+          smallestLargestInArray(arr);
           System.out.println("Smallest: "+arr[0]);
         System.out.println("Largest: "+arr[arr.length-1]);
+        sc.close();
     }
 }

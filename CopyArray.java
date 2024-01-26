@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 
 public class CopyArray {
@@ -21,6 +21,7 @@ public class CopyArray {
         }
         System.out.println("Original Array:");
         printArray(arr);
+        sc.close();
     }
     
 }

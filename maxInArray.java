@@ -1,4 +1,4 @@
-package Arrays;
+
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class maxInArray {
             if (ans < arr[i]) {
                 ans = arr[i];
             }
-
+            read.close();
         }
         System.out.println("Max is " + ans);
 
