@@ -17,5 +17,6 @@ public class PrintMultiples {
     int k = sc.nextInt();
     System.out.println("The "+k+ " multiples of " +num+ " are: ");
     multiples(num, k);
+    sc.close();
    } 
 }

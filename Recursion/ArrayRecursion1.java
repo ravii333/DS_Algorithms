@@ -4,7 +4,7 @@ public class ArrayRecursion1 {
     static void printArray(int[] arr,int idx){
         //Base case
         if(idx == arr.length) return; 
-            System.out.println(arr[idx]);
+            System.out.print(arr[idx]+ " ");
         
           printArray(arr, idx+1);
     }
