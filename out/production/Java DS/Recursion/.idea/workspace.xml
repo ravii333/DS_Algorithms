@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1903d118-a778-482c-a362-5a4810970c12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java DS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/AddMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/AddMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ArrayIsSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ArrayIsSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ChangeArrayElement$CopyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ChangeArrayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ChangeArrayElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CloneArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CloneArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CopyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CopyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CountElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CountElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CountOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/CountOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/GenerateSpiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/GenerateSpiralMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Java DS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/KthSmallAndLarge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/KthSmallAndLarge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/LargestSmallestInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/LargestSmallestInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/LastOccurenceInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/LastOccurenceInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MatrixTranspose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MatrixTranspose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Matrixprint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Matrixprint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Matrixprint2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Matrixprint2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MiscProblem4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MultiplyMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MultiplyMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/OccurenceOfElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/OccurenceOfElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PascalTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PowerNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PowerNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSum3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSum3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSum4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSum4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSumMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrefixSumMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PresentQueries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PresentQueries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrintMultiples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/PrintMultiples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/RectangleSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/RectangleSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Recursion1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Recursion2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/RepeatingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/RepeatingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/RotateMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/RotateMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SearchElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SearchElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SecondLargest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortingWith2pointer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortingWith2pointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortingZerosAndOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SortingZerosAndOnes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/SpiralMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/TripleSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/TwoPointer4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/TwoPointer5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/UniqueElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/maxInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/maxInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/prefixSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/prefixSum2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/reverseRowInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/reverseRowInMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/searchInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/searchInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/sumArryElmnt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/sumArryElmnt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/sumOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/twoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/twoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayRecursion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayRecursion1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubSetSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subsequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Recursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Recursion/.idea/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Recursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Recursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/AddMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/ArrayIsSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/ArrayRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/ArrayRecursion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/CloneArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/MiscProblem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/MiscProblem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/MiscProblem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/OccurenceOfElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/PresentQueries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/RepeatingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/SearchElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/SortingWith2pointer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/SortingZerosAndOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/TripleSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/searchInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/sumArryElmnt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Arrays/sumOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/ChangeArrayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/CopyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/CountElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/CountOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/GenerateSpiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Java DS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/KthSmallAndLarge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/LargestSmallestInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/LastOccurenceInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/MatrixTranspose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Matrixprint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Matrixprint2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/MiscProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/MultiplyMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PowerNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PrefixSum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PrefixSum3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PrefixSum4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PrefixSumMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/PrintMultiples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/RectangleSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/.idea/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/PalindromeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/SubSetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/Subsequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/production/Recursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/production/Recursion/.idea/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/production/Recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/production/Recursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion/production/Recursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/Recursion2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/RotateMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/SortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/SpiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/TwoPointer4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/TwoPointer5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/UniqueElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/maxInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/prefixSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/reverseRowInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java DS/twoSum.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2byUe6R2lYFPOPiELDTIhYekv0i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Learnings/Java DS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Naturalnum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naturalnum" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1903d118-a778-482c-a362-5a4810970c12" name="Changes" comment="" />
+      <created>1707186905714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707186905714</updated>
+    </task>
+    <servers />
+  </component>
+</project>
