@@ -1,6 +1,6 @@
 package com.ravi.Array;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Minimum_Jump {
     static int minJumps(int[] arr, int n){
